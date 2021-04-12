@@ -5,24 +5,19 @@
     <link>https://nikcodes.xyz/</link>
     <description>Recent content on Nik Codes</description>
     <image>
-      <url>https://nikcodes.xyz/97</url>
-      <link>https://nikcodes.xyz/97</link>
+      <url>https://nikcodes.xyz/assets/img/logo.png</url>
+      <link>https://nikcodes.xyz/assets/img/logo.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://nikcodes.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nikcodes.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Rusty Invades</title>
       <link>https://nikcodes.xyz/posts/rusty-invades/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/posts/rusty-invades/</guid>
-      <description>Rusty Invades A &amp;lsquo;Space Invader&amp;rsquo; clone made with rust and made for the terminal.
-Inspired by invaders
-Dependencies on Linux Audio should work out-of-the-box on macOS, Windows, and iOS. For Linux, the downstream package for actually playing sound requires the Alsa development libraries to be installed.
-CentOS sudo yum install -y alsa-lib-devel Debian/Ubuntu sudo apt install libasound2-dev pkg-config License Apache License (Version 2.0).
-TODO ⬜ UI.
-⬜ Score.
-⬜ Lives.</description>
+      <description>A &amp;#39;Space Invader&amp;#39; clone made with rust and made for the terminal.</description>
     </item>
     
     

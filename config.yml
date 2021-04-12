@@ -18,11 +18,12 @@ params:
   keywords: [ Blog, Portfolio, PaperMod ]
   author: Nicolas cesar sabbatini Vrech
   DateFormat: "2 January 2006"
-  images: "assets/img/logo.png"
+  images: ["assets/img/logo.png", "assets/img/logo.png"]
   defaultTheme: dark
   disableThemeToggle: true
   ShowShareButtons: true
   env: production
+  ShowBreadCrumbs: true
 
   assets:
     favicon: "assets/img/logo.png"
@@ -31,26 +32,26 @@ params:
     apple_touch_icon: "assets/img/logo.png"
     safari_pinned_tab: "assets/img/logo.png"
 
-  # TODO Ver que hondera
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
+    enabled: true # needs to be explicitly set
+    title: "Hi there \U0001F44B!"
+    subtitle: "My name is Nik, I am full stack developer and I am trying to inspire people to code their dreams. "
     imageUrl: "assets/img/logo.png"
-    imageWidth: 200
-    imageHeight: 200
-    imageTitle: my image
+    imageWidth: 250
+    imageHeight: 250
+    imageTitle: Logo
     buttons:
+      - name: Projets
+        url: /projets/
       - name: Posts
-        url: posts
+        url: /posts/
       - name: Tags
-        url: tags
+        url: /tags/
 
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: Welcome to my blog
 
-  # TODO
   socialIcons:
     - name: twitter
       url: "https://twitter.com/nik_codes"
@@ -69,3 +70,37 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: [ "title", "permalink", "summary", "content" ]
+
+  editPost:
+    URL: "https://todo.sr.ht/~nik_codes/nikcodes_website"
+    Text: "Submit a ticket"
+    appendFilePath: false
+
+menu:
+  main:
+    - identifier: projets
+      name: projets
+      url: /projets/
+      weight: 10
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 20
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 30
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 40
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 50
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON

@@ -1,4 +1,27 @@
+---
+title: "Rusty Invades"
+date: "2021-04-11"
+tags: ["game", "rust"]
+author: "Nicolas Cesar Sabbatini Vrech"
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false 
+comments: false
+description: "A 'Space Invader' clone made with rust and made for the terminal."
+disableHLJS: false
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: false
+ShowPostNavLinks: true
+editPost:
+    URL: "https://github.com/NicolasSabba/rusty-invades"
+    Text: "Suggest Changes"
+    appendFilePath: false
+---
 # Rusty Invades
+> [Source Code](https://github.com/NicolasSabba/rusty-invades)
 
 A 'Space Invader' clone made with rust and made for the terminal.
 
