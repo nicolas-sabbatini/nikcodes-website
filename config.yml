@@ -1,0 +1,71 @@
+baseURL: https://nikcodes.xyz/
+languageCode: en-us
+title: Nik Codes
+paginate: 10
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  description: "Nik personal website, here you can find all my projects and my blog"
+  keywords: [ Blog, Portfolio, PaperMod ]
+  author: Nicolas cesar sabbatini Vrech
+  DateFormat: "2 January 2006"
+  images: "assets/img/logo.png"
+  defaultTheme: dark
+  disableThemeToggle: true
+  ShowShareButtons: true
+  env: production
+
+  assets:
+    favicon: "assets/img/logo.png"
+    favicon16x16: "assets/img/fav16x16.icon"
+    favicon32x32: "assets/img/fav32x32.icon"
+    apple_touch_icon: "assets/img/logo.png"
+    safari_pinned_tab: "assets/img/logo.png"
+
+  # TODO Ver que hondera
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: ExampleSite
+    subtitle: "This is subtitle"
+    imageUrl: "assets/img/logo.png"
+    imageWidth: 200
+    imageHeight: 200
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+
+  # TODO
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/nik_codes"
+    - name: youtube
+      url: "https://www.youtube.com/channel/UCmymYI9hAm98xJRjp7NN15w"
+    - name: github
+      url: "https://sr.ht/~nik_codes/"
+    - name: itchio
+      url: "https://nik-codes.itch.io/"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: [ "title", "permalink", "summary", "content" ]
