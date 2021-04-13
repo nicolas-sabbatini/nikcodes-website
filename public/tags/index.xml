@@ -2,30 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nik Codes</title>
-    <link>https://nikcodes.xyz/tags/</link>
+    <link>http://0.0.0.0:7878/tags/</link>
     <description>Recent content in Tags on Nik Codes</description>
     <image>
-      <url>https://nikcodes.xyz/assets/img/logo.png</url>
-      <link>https://nikcodes.xyz/assets/img/logo.png</link>
+      <url>http://0.0.0.0:7878/assets/img/logo.svg</url>
+      <link>http://0.0.0.0:7878/assets/img/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nikcodes.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://0.0.0.0:7878/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>projet</title>
+      <link>http://0.0.0.0:7878/tags/projet/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:7878/tags/projet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dot files</title>
+      <link>http://0.0.0.0:7878/tags/dot-files/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://0.0.0.0:7878/tags/dot-files/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>game</title>
-      <link>https://nikcodes.xyz/tags/game/</link>
+      <link>http://0.0.0.0:7878/tags/game/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://nikcodes.xyz/tags/game/</guid>
+      <guid>http://0.0.0.0:7878/tags/game/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rust</title>
-      <link>https://nikcodes.xyz/tags/rust/</link>
+      <link>http://0.0.0.0:7878/tags/rust/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://nikcodes.xyz/tags/rust/</guid>
+      <guid>http://0.0.0.0:7878/tags/rust/</guid>
       <description></description>
     </item>
     

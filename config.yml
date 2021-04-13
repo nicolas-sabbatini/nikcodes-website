@@ -18,25 +18,25 @@ params:
   keywords: [ Blog, Portfolio, PaperMod ]
   author: Nicolas cesar sabbatini Vrech
   DateFormat: "2 January 2006"
-  images: ["assets/img/logo.png", "assets/img/logo.png"]
-  defaultTheme: dark
-  disableThemeToggle: true
+  images: ["assets/img/logo.svg", "assets/img/logo.svg"]
+  defaultTheme: auto
+  disableThemeToggle: false
   ShowShareButtons: true
   env: production
   ShowBreadCrumbs: true
 
   assets:
-    favicon: "assets/img/logo.png"
-    favicon16x16: "assets/img/fav16x16.icon"
-    favicon32x32: "assets/img/fav32x32.icon"
-    apple_touch_icon: "assets/img/logo.png"
-    safari_pinned_tab: "assets/img/logo.png"
+    favicon: "assets/img/logo.svg"
+    favicon16x16: "assets/img/logo.svg"
+    favicon32x32: "assets/img/logo.svg"
+    apple_touch_icon: "assets/img/logo.svg"
+    safari_pinned_tab: "assets/img/logo.svg"
 
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Hi there \U0001F44B!"
     subtitle: "My name is Nik, I am full stack developer and I am trying to inspire people to code their dreams. "
-    imageUrl: "assets/img/logo.png"
+    imageUrl: "assets/img/logo.svg"
     imageWidth: 250
     imageHeight: 250
     imageTitle: Logo
@@ -78,6 +78,10 @@ params:
 
 menu:
   main:
+    - identifier: about_me
+      name: "about me"
+      url: /about_me/
+      weight: 1
     - identifier: projets
       name: projets
       url: /projets/

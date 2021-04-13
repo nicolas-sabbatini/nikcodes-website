@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Nik Codes</title>
-    <link>https://nikcodes.xyz/categories/</link>
+    <link>http://0.0.0.0:7878/categories/</link>
     <description>Recent content in Categories on Nik Codes</description>
     <image>
-      <url>https://nikcodes.xyz/assets/img/logo.png</url>
-      <link>https://nikcodes.xyz/assets/img/logo.png</link>
+      <url>http://0.0.0.0:7878/assets/img/logo.svg</url>
+      <link>http://0.0.0.0:7878/assets/img/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://nikcodes.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://0.0.0.0:7878/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

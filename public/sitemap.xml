@@ -2,28 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nikcodes.xyz/tags/game/</loc>
+    <loc>http://0.0.0.0:7878/projets/creative_coding_with_nik/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://0.0.0.0:7878/projets/experiments_projects_and_chocolate/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://0.0.0.0:7878/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://0.0.0.0:7878/projets/nik_games/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://0.0.0.0:7878/tags/projet/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://0.0.0.0:7878/projets/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://0.0.0.0:7878/tags/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://0.0.0.0:7878/about_me/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://0.0.0.0:7878/tags/dot-files/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://0.0.0.0:7878/projets/dot_files/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://0.0.0.0:7878/tags/game/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nikcodes.xyz/</loc>
+    <loc>http://0.0.0.0:7878/posts/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nikcodes.xyz/posts/</loc>
+    <loc>http://0.0.0.0:7878/tags/rust/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nikcodes.xyz/tags/rust/</loc>
+    <loc>http://0.0.0.0:7878/posts/rusty-invades/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nikcodes.xyz/posts/rusty-invades/</loc>
-    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
+    <loc>http://0.0.0.0:7878/archives/</loc>
   </url><url>
-    <loc>https://nikcodes.xyz/tags/</loc>
-    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
+    <loc>http://0.0.0.0:7878/categories/</loc>
   </url><url>
-    <loc>https://nikcodes.xyz/archives/</loc>
-  </url><url>
-    <loc>https://nikcodes.xyz/categories/</loc>
-  </url><url>
-    <loc>https://nikcodes.xyz/search/</loc>
+    <loc>http://0.0.0.0:7878/search/</loc>
   </url>
 </urlset>

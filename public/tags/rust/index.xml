@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rust on Nik Codes</title>
-    <link>https://nikcodes.xyz/tags/rust/</link>
+    <link>http://0.0.0.0:7878/tags/rust/</link>
     <description>Recent content in rust on Nik Codes</description>
     <image>
-      <url>https://nikcodes.xyz/assets/img/logo.png</url>
-      <link>https://nikcodes.xyz/assets/img/logo.png</link>
+      <url>http://0.0.0.0:7878/assets/img/logo.svg</url>
+      <link>http://0.0.0.0:7878/assets/img/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nikcodes.xyz/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://0.0.0.0:7878/tags/rust/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rusty Invades</title>
-      <link>https://nikcodes.xyz/posts/rusty-invades/</link>
+      <link>http://0.0.0.0:7878/posts/rusty-invades/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://nikcodes.xyz/posts/rusty-invades/</guid>
+      <guid>http://0.0.0.0:7878/posts/rusty-invades/</guid>
       <description>A &amp;#39;Space Invader&amp;#39; clone made with rust and made for the terminal.</description>
     </item>
     
