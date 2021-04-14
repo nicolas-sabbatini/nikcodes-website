@@ -43,7 +43,7 @@ Create beautiful Sierpinski Carpets fractals with the help of this tool.
 
 [Source code](https://git.sr.ht/~nik_codes/sierpinski-carpet-generator)
 
-![Sierpinski Carpet](assets/img/carpet.png)
+![Sierpinski Carpet](assets/carpet.png)
 
 ### Game Of Life
 > TIC-80, game of life, TS
@@ -54,4 +54,4 @@ An implementation of Conway's game of life for the TIC-80 fantasy console, creat
 
 [Source code](https://git.sr.ht/~nik_codes/game-of-life-tic-80)
 
-![Gif of the game of life](assets/img/game-of-life.gif)
+![Gif of the game of life](assets/game-of-life.gif)
