@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Nik Codes</title>
-    <link>https://nikcodes.xyz/posts/</link>
-    <description>Recent content in Posts on Nik Codes</description>
+    <title>goals on Nik Codes</title>
+    <link>https://nikcodes.xyz/tags/goals/</link>
+    <description>Recent content in goals on Nik Codes</description>
     <image>
       <url>https://nikcodes.xyz/assets/img/logo.svg</url>
       <link>https://nikcodes.xyz/assets/img/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nikcodes.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nikcodes.xyz/tags/goals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My impossible list</title>
       <link>https://nikcodes.xyz/posts/impossible_list/</link>
@@ -18,15 +18,6 @@
       
       <guid>https://nikcodes.xyz/posts/impossible_list/</guid>
       <description>My impossible list, hopes and dreams</description>
-    </item>
-    
-    <item>
-      <title>Rusty Invades</title>
-      <link>https://nikcodes.xyz/posts/rusty-invades/</link>
-      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nikcodes.xyz/posts/rusty-invades/</guid>
-      <description>A &amp;#39;Space Invader&amp;#39; clone made with rust and made for the terminal.</description>
     </item>
     
   </channel>
