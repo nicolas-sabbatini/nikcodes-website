@@ -25,7 +25,6 @@ This list didn't fully remove the overwhelming feeling when I  think about the f
 
 ### What is a Impossible list?
 
-It gives purpose to your actions and it gives context to your journey.
 [The impossible list is NOT a bucket list](https://impossiblehq.com/the-impossible-list-is-not-a-bucket-list/), the impossible list is a challenge and a journal that helps to give narration to your story.
 [The original impossible list of Joel Runyon](https://impossiblehq.com/impossible-list/)
 
@@ -90,6 +89,7 @@ It gives purpose to your actions and it gives context to your journey.
 - ~~Have my own domain~~ - Completed 2018/10/11
 - Earn 100 dollars with something I had published
 - Make a neural network that compose music
+- Make a rogue like
 
 ### Travel
 
