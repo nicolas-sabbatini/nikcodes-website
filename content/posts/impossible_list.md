@@ -20,7 +20,8 @@ ShowPostNavLinks: true
 I’ve always been fantasizing about my future, thinking about all the things I wanted to accomplish or do.
 Needless to say, I never got around to any of it (except maybe a few minor goals).
 I always felt overwhelmed by the number of things I want to do/learn, till I came across a [video](https://www.youtube.com/watch?v=6apcEae2U4w) from [Thomas Frank](https://collegeinfogeek.com/) about an idea that he had from [Joel Runyon](https://impossiblehq.com/impossible-list/), this idea is the impossible list.
-This list didn't fully remove the overwhelming feeling that I feel when I think about the future, but it gives me a path to accomplish most of my goals.
+
+This list didn't fully remove the overwhelming feeling when I  think about the future, but it gives me a path to accomplish most of my goals.
 
 ### What is a Impossible list?
 
@@ -35,10 +36,11 @@ It gives purpose to your actions and it gives context to your journey.
 
 - Get my bachelor degree in computer science
 - Get my master degree in computer science
-- ~~Participate in a game jam~~ - Completed 2017/12/01 [Entry](https://itch.io/jam/game-off-2017/rate/199572) - TODO: update link
+- ~~Participate in a game jam~~ - Completed 2017/12/01 [Entry](https://itch.io/jam/game-off-2017/rate/199572)
 - Get my driver licence
 - Start a blog
-- ~~Start a youtube chanel~~ - TODO: add day
+- ~~Start a youtube chanel~~ - Completed 2020/10/20 [link](https://www.youtube.com/channel/UCmymYI9hAm98xJRjp7NN15w)
+    - Start a serie
     - Reach 100 subscribers
 
 ### Fitness
@@ -68,9 +70,9 @@ It gives purpose to your actions and it gives context to your journey.
 
 ### Finance
 
-- ~~Get a job~~ - TODO: add day
+- ~~Get a job~~ - Completed 2020/01/06
     - Get a job abroad
-- ~~Invest in the stock market~~ - TODO: add day
+- ~~Invest in the stock market~~ - Completed 2020/05/22
 - Buy a car
 - Buy a motorcycle
 - Buy a house
@@ -84,7 +86,7 @@ It gives purpose to your actions and it gives context to your journey.
 - ~~Learn HTML~~ - Completed 2018/07/xx
 - Learn CSS
 - Learn vanilla JS
-- ~~Make my website~~ - TODO: add day
+- ~~Make my website~~ - Completed
 - ~~Have my own domain~~ - Completed 2018/10/11
 - Earn 100 dollars with something I had published
 - Make a neural network that compose music
@@ -121,7 +123,7 @@ It gives purpose to your actions and it gives context to your journey.
 - Scuba diving
 - Name something
 - Wingsuit fly
-- ~~Windsurf~~ - TODO: add day
+- ~~Windsurf~~ - 2021/03/25
 
 ### Books
 
