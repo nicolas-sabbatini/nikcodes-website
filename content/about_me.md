@@ -24,7 +24,7 @@ in [Famaf](https://www.famaf.unc.edu.ar/).
 
 I am a native Spanish speaker and also fluent in English.
 
-I love learning new skills, and I am always down to improve my self. SOm off the skills that I learn throughout the
+I love learning new skills, and I am always down to improve my self. Some off the skills that I learn throughout the
 years are:
 
 - Rust.

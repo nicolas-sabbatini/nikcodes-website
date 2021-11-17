@@ -51,11 +51,11 @@ sudo apt install libasound2-dev pkg-config
 ### TODO
 
 ⬜ UI.  
-⬜ Score.  
-⬜ Lives.  
+✅ Score.  
+✅ Lives.  
 ⬜ Multiple levels.  
 ⬜ Power ups.  
-⬜ Better sound.
+⬜ Make bullets entities.  
 
 ### Run Linux
 

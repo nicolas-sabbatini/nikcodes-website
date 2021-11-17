@@ -41,6 +41,8 @@ This list didn't fully remove the overwhelming feeling when I  think about the f
 - ~~Start a youtube chanel~~ - Completed 2020/10/20 [link](https://www.youtube.com/channel/UCmymYI9hAm98xJRjp7NN15w)
     - Start a serie
     - Reach 100 subscribers
+- Make a game
+- Finish my TODOs list [link](https://todo.sr.ht/)
 
 ### Fitness
 
@@ -55,6 +57,7 @@ This list didn't fully remove the overwhelming feeling when I  think about the f
 - Lose 10Kg
 - ~~Start swimming lessons~~: - Completed 2021/01/01
     - ~~Learn to swim butterfly~~ - Completed 2021/03/01
+    - Swim 10Km
 
 ### Skills
 
@@ -76,7 +79,7 @@ This list didn't fully remove the overwhelming feeling when I  think about the f
 - Buy a motorcycle
 - Buy a house
 - Buy a small flat in other country
-- Buy crypto
+- ~~Buy crypto~~ - Completed 2021/10/01
 - Open my NFT store
 - Sell my digital art
 
@@ -149,3 +152,5 @@ This list didn't fully remove the overwhelming feeling when I  think about the f
 - Death by Todd May
 - Generative Design, Revised and Updated Edition
 - Programming Design Systems
+- http://www.generative-gestaltung.de/2/
+- If you are smart why aren't you happy
