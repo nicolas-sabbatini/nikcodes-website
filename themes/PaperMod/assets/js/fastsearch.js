@@ -1,13 +1,11 @@
-import * as params from '@params';
-
 var fuse; // holds our search engine
 var resList = document.getElementById('searchResults');
 var sInput = document.getElementById('searchInput');
-var first, last, current_elem = null
+var first, last = null
 var resultsAvailable = false;
 
-// load our search index
-window.onload = function () {
+// load our search index, only executed onload
+function loadSearch() {
     var xhr = new XMLHttpRequest();
     xhr.onreadystatechange = function () {
         if (xhr.readyState === 4) {
@@ -26,7 +24,7 @@ window.onload = function () {
                             'content'
                         ]
                     };
-                    if (params.fuseOpts) options = params.fuseOpts;
+                    {{ if . }}options = {{ jsonify . }}{{ end }} // load custom options from .Site.Params.fuseOpts
                     fuse = new Fuse(data, options); // build the index from the json file
                 }
             } else {
@@ -38,18 +36,13 @@ window.onload = function () {
     xhr.send();
 }
 
-function activeToggle(ae) {
-    document.querySelectorAll('.focus').forEach(function (element) {
-        // rm focus class
-        element.classList.remove("focus")
-    });
-    if (ae) {
-        ae.focus()
-        document.activeElement = current_elem = ae;
-        ae.parentElement.classList.add("focus")
-    } else {
-        document.activeElement.parentElement.classList.add("focus")
-    }
+
+function itemGen(name, link) {
+    return `<li class="post-entry"><header class="entry-header">${name}&nbsp;»</header><a href="${link}" aria-label="${name}"></a></li>`
+}
+
+function activeToggle() {
+    document.activeElement.parentElement.classList.toggle("focus")
 }
 
 function reset() {
@@ -62,25 +55,23 @@ function reset() {
 sInput.onkeyup = function (e) {
     // run a search query (for "term") every time a letter is typed
     // in the search box
-    if (fuse) {
-        const results = fuse.search(this.value.trim()); // the actual query being run using fuse.js
-        if (results.length !== 0) {
-            // build our html if result exists
-            let resultSet = ''; // our results bucket
+    const results = fuse.search(this.value.trim()); // the actual query being run using fuse.js
 
-            for (let item in results) {
-                resultSet += `<li class="post-entry"><header class="entry-header">${results[item].item.title}&nbsp;»</header>` +
-                    `<a href="${results[item].item.permalink}" aria-label="${results[item].item.title}"></a></li>`
-            }
+    if (results.length !== 0) {
+        // build our html if result exists
+        let resultSet = ''; // our results bucket
 
-            resList.innerHTML = resultSet;
-            resultsAvailable = true;
-            first = resList.firstChild;
-            last = resList.lastChild;
-        } else {
-            resultsAvailable = false;
-            resList.innerHTML = '';
+        for (let item in results) {
+            resultSet = resultSet + itemGen(results[item].item.title, results[item].item.permalink)
         }
+
+        resList.innerHTML = resultSet;
+        resultsAvailable = true;
+        first = resList.firstChild;
+        last = resList.lastChild;
+    } else {
+        resultsAvailable = false;
+        resList.innerHTML = '';
     }
 }
 
@@ -92,8 +83,7 @@ sInput.addEventListener('search', function (e) {
 // kb bindings
 document.onkeydown = function (e) {
     let key = e.key;
-    var ae = document.activeElement;
-
+    let ae = document.activeElement;
     let inbox = document.getElementById("searchbox").contains(ae)
 
     if (ae === sInput) {
@@ -101,18 +91,22 @@ document.onkeydown = function (e) {
         while (elements.length > 0) {
             elements[0].classList.remove('focus');
         }
-    } else if (current_elem) ae = current_elem;
+    }
 
     if (key === "ArrowDown" && resultsAvailable && inbox) {
         e.preventDefault();
         if (ae == sInput) {
             // if the currently focused element is the search input, focus the <a> of first <li>
-            activeToggle(resList.firstChild.lastChild);
+            activeToggle(); // rm focus class
+            resList.firstChild.lastChild.focus();
+            activeToggle(); // add focus class
         } else if (ae.parentElement == last) {
             // if the currently focused element's parent is last, do nothing
         } else {
             // otherwise select the next search result
-            activeToggle(ae.parentElement.nextSibling.lastChild);
+            activeToggle(); // rm focus class
+            ae.parentElement.nextSibling.lastChild.focus();
+            activeToggle(); // add focus class
         }
     } else if (key === "ArrowUp" && resultsAvailable && inbox) {
         e.preventDefault();
@@ -120,10 +114,13 @@ document.onkeydown = function (e) {
             // if the currently focused element is input box, do nothing
         } else if (ae.parentElement == first) {
             // if the currently focused element is first item, go to input box
-            activeToggle(sInput);
+            activeToggle(); // rm focus class
+            sInput.focus();
         } else {
             // otherwise select the previous search result
-            activeToggle(ae.parentElement.previousSibling.lastChild);
+            activeToggle(); // rm focus class
+            ae.parentElement.previousSibling.lastChild.focus();
+            activeToggle(); // add focus class
         }
     } else if (key === "ArrowRight" && resultsAvailable && inbox) {
         ae.click(); // click on active link

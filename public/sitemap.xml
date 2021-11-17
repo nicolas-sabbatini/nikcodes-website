@@ -1,74 +1,122 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
-    <loc>https://nikcodes.xyz/posts/print-10/</loc>
+    <loc>https://nik_codes.srht.site/posts/print-10/</loc>
     <lastmod>2021-04-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/tags/commodore64/</loc>
-    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/tags/creative/</loc>
-    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/</loc>
-    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/posts/</loc>
-    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/tags/rust/</loc>
-    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/tags/</loc>
-    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/tags/goals/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/tags/impossible-list/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/posts/impossible_list/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/tags/personal/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/projets/creative_coding_with_nik/</loc>
-    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/projets/experiments_projects_and_chocolate/</loc>
-    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/projets/nik_games/</loc>
-    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/tags/projet/</loc>
-    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/projets/</loc>
-    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/about_me/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/tags/dot-files/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/projets/dot_files/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/tags/game/</loc>
-    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/posts/rusty-invades/</loc>
-    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nikcodes.xyz/archives/</loc>
-  </url><url>
-    <loc>https://nikcodes.xyz/categories/</loc>
-  </url><url>
-    <loc>https://nikcodes.xyz/search/</loc>
   </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/tags/commodore64/</loc>
+    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/tags/creative/</loc>
+    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/</loc>
+    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/posts/</loc>
+    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/tags/rust/</loc>
+    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/tags/</loc>
+    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/tags/goals/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/tags/impossible-list/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/posts/impossible_list/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/tags/personal/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/projets/creative_coding_with_nik/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/projets/experiments_projects_and_chocolate/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/projets/nik_games/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/tags/projet/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/projets/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/about_me/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/tags/dot-files/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/projets/dot_files/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/tags/game/</loc>
+    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/posts/rusty-invades/</loc>
+    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nik_codes.srht.site/search/</loc>
+  </url>
+  
 </urlset>
