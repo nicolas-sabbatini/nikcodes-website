@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>goals on Nik Codes</title>
-    <link>https://nik_codes.srht.site/tags/goals/</link>
+    <link>https://nikcodes.xyz/tags/goals/</link>
     <description>Recent content in goals on Nik Codes</description>
     <image>
-      <url>https://nik_codes.srht.site/assets/img/logo.svg</url>
-      <link>https://nik_codes.srht.site/assets/img/logo.svg</link>
+      <url>https://nikcodes.xyz/assets/img/logo.svg</url>
+      <link>https://nikcodes.xyz/assets/img/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nik_codes.srht.site/tags/goals/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nikcodes.xyz/tags/goals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My impossible list</title>
-      <link>https://nik_codes.srht.site/posts/impossible_list/</link>
+      <link>https://nikcodes.xyz/posts/impossible_list/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://nik_codes.srht.site/posts/impossible_list/</guid>
+      <guid>https://nikcodes.xyz/posts/impossible_list/</guid>
       <description>My impossible list, hopes and dreams</description>
     </item>
     
