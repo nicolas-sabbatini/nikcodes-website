@@ -35,7 +35,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Hi there \U0001F44B!"
-    subtitle: "My name is Nik, I am full stack developer and I am trying to inspire people to code their dreams. "
+    subtitle: "My name is Nik, I'm a fullstack developer from Argentina 🇦🇷"
     imageUrl: "assets/img/logo.svg"
     imageWidth: 250
     imageHeight: 250
@@ -58,7 +58,7 @@ params:
     - name: youtube
       url: "https://www.youtube.com/channel/UCmymYI9hAm98xJRjp7NN15w"
     - name: github
-      url: "https://sr.ht/~nik_codes/"
+      url: "https://github.com/nicolas-sabbatini/"
     - name: itchio
       url: "https://nik-codes.itch.io/"
 
