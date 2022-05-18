@@ -18,7 +18,7 @@ params:
   keywords: [ Blog, Portfolio, PaperMod ]
   author: Nicolas cesar sabbatini Vrech
   DateFormat: "2 January 2006"
-  images: ["assets/img/logo.svg", "assets/img/logo.svg"]
+  images: ["logo.svg", "logo.svg"]
   defaultTheme: auto
   disableThemeToggle: false
   ShowShareButtons: true
@@ -26,17 +26,17 @@ params:
   ShowBreadCrumbs: true
 
   assets:
-    favicon: "assets/img/logo.svg"
-    favicon16x16: "assets/img/logo.svg"
-    favicon32x32: "assets/img/logo.svg"
-    apple_touch_icon: "assets/img/logo.svg"
-    safari_pinned_tab: "assets/img/logo.svg"
+    favicon: "logo.svg"
+    favicon16x16: "logo.svg"
+    favicon32x32: "logo.svg"
+    apple_touch_icon: "logo.svg"
+    safari_pinned_tab: "logo.svg"
 
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Hi there \U0001F44B!"
     subtitle: "My name is Nik, I'm a fullstack developer from Argentina 🇦🇷"
-    imageUrl: "assets/img/logo.svg"
+    imageUrl: "logo.svg"
     imageWidth: 250
     imageHeight: 250
     imageTitle: Logo
