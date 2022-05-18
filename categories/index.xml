@@ -5,8 +5,8 @@
     <link>https://nikcodes.xyz/categories/</link>
     <description>Recent content in Categories on Nik Codes</description>
     <image>
-      <url>https://nikcodes.xyz/assets/img/logo.svg</url>
-      <link>https://nikcodes.xyz/assets/img/logo.svg</link>
+      <url>https://nikcodes.xyz/logo.svg</url>
+      <link>https://nikcodes.xyz/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://nikcodes.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
