@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nik Codes</title>
+    <link>https://nikcodes.xyz/</link>
+    <description>Recent content on Nik Codes</description>
+    <image>
+      <url>https://nikcodes.xyz/assets/img/logo.svg</url>
+      <link>https://nikcodes.xyz/assets/img/logo.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nikcodes.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tools for the magic</title>
+      <link>https://nikcodes.xyz/projets/tools_for_magic/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikcodes.xyz/projets/tools_for_magic/</guid>
+      <description>Tools for the magic</description>
+    </item>
+    
+    <item>
+      <title>10 Print</title>
+      <link>https://nikcodes.xyz/posts/print-10/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikcodes.xyz/posts/print-10/</guid>
+      <description>10 PRINT CHR$(205.5&#43;RND(1)); : GOTO 10</description>
+    </item>
+    
+    <item>
+      <title>My impossible list</title>
+      <link>https://nikcodes.xyz/posts/impossible_list/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikcodes.xyz/posts/impossible_list/</guid>
+      <description>My impossible list, hopes and dreams</description>
+    </item>
+    
+    <item>
+      <title>Creative coding with Nik</title>
+      <link>https://nikcodes.xyz/projets/creative_coding_with_nik/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikcodes.xyz/projets/creative_coding_with_nik/</guid>
+      <description>Come and get some inspiration with these creative projects, feel free to clone any repos, make lovely pull requests or send any idea to the tickets!</description>
+    </item>
+    
+    <item>
+      <title>Experiments, projects and chocolate</title>
+      <link>https://nikcodes.xyz/projets/experiments_projects_and_chocolate/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikcodes.xyz/projets/experiments_projects_and_chocolate/</guid>
+      <description>A collection of coding experiments and projects to have fun and tinker with (chocolate not included).</description>
+    </item>
+    
+    <item>
+      <title>Nik Games</title>
+      <link>https://nikcodes.xyz/projets/nik_games/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikcodes.xyz/projets/nik_games/</guid>
+      <description>My games</description>
+    </item>
+    
+    <item>
+      <title>About ME</title>
+      <link>https://nikcodes.xyz/about_me/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikcodes.xyz/about_me/</guid>
+      <description>About me</description>
+    </item>
+    
+    <item>
+      <title>Rusty Invades</title>
+      <link>https://nikcodes.xyz/posts/rusty-invades/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikcodes.xyz/posts/rusty-invades/</guid>
+      <description>A &amp;#39;Space Invader&amp;#39; clone made with rust and made for the terminal.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
