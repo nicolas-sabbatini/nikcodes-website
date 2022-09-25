@@ -52,8 +52,12 @@ This list didn't fully remove the overwhelming feeling when I  think about the f
 - Do 100 push-ups in a single set
 - Do 20 vertical push up in a single set
 - Get a six pack
-- ~~Lose 5kg~~ - Completed 2019/04/04
-- Lose 10Kg
+- Lose 5kg
+  - Lose 10Kg
+  - Lose 15Kg
+  - Lose 20Kg
+  - Lose 25Kg
+  - Lose 30Kg
 - ~~Start swimming lessons~~: - Completed 2021/01/01
     - ~~Learn to swim butterfly~~ - Completed 2021/03/01
     - Swim 10Km
