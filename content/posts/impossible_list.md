@@ -136,6 +136,7 @@ This list didn't fully remove the overwhelming feeling when I  think about the f
 - Name something
 - Wingsuit fly
 - ~~Windsurf~~ - 2021/03/25
+- Read 1 book per month
 
 ### Books
 
