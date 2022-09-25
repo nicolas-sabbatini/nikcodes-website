@@ -1,6 +1,6 @@
 ---
 title: "About ME"
-date: 2021-04-12
+date: 2022-09-24
 tags: []
 author: "Nicolas Cesar Sabbatini Vrech"
 showToc: false
@@ -11,7 +11,6 @@ comments: false
 description: "About me"
 disableHLJS: false
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: true
 ShowPostNavLinks: true
@@ -19,7 +18,7 @@ ShowPostNavLinks: true
 
 # Hi there 👋! I am Nik.
 
-I am a full stack developer currently working at [Santex](https://santexgroup.com/), and studying computer science
+I am a full stack developer currently working at [MODO](https://www.modo.com.ar/) as a backend developer, and studying computer science
 in [Famaf](https://www.famaf.unc.edu.ar/).
 
 I am a native Spanish speaker and also fluent in English.
@@ -29,6 +28,7 @@ years are:
 
 - Rust.
 - Node js.
+- Nest Js.
 - Express js.
 - Angular.
 - Jenkins.
@@ -52,5 +52,3 @@ years are:
 - lisp.
 - p5.js.
 - Ocaml.
-
-

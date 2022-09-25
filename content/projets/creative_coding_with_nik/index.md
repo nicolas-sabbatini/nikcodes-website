@@ -9,15 +9,14 @@ draft: false
 hidemeta: false 
 comments: false
 description: "Come and get some inspiration with these creative projects, feel free to clone any repos, make lovely pull requests or send any idea to the tickets!"
-disableHLJS: false
 disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
 ShowPostNavLinks: true
 editPost:
-    URL: "https://todo.sr.ht/~nik_codes/creative-coding-with-nik"
-    Text: "Suggest Changes"
+    URL: "https://github.com/nicolas-sabbatini/nicolas-sabbatini.github.io/issues"
+    Text: "Suggest changes and ideas. (Tag: creative coding)"
     appendFilePath: false
 ---
 # Creative coding with Nik

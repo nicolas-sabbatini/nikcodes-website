@@ -9,15 +9,14 @@ draft: false
 hidemeta: false 
 comments: false
 description: "A collection of coding experiments and projects to have fun and tinker with (chocolate not included)."
-disableHLJS: false
 disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
 ShowPostNavLinks: true
 editPost:
-    URL: "https://todo.sr.ht/~nik_codes/experiments-projects-and-chocolate"
-    Text: "Suggest Changes"
+    URL: "https://github.com/nicolas-sabbatini/nicolas-sabbatini.github.io/issues"
+    Text: "Suggest changes and ideas. (Tag: experiments projects and chocolate)"
     appendFilePath: false
 ---
 # Experiments, projects and chocolate

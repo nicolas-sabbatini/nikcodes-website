@@ -11,7 +11,6 @@ comments: false
 description: "My games"
 disableHLJS: false
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowPostNavLinks: true
@@ -22,8 +21,8 @@ cover:
     relative: false
     hidden: false
 editPost:
-    URL: "https://todo.sr.ht/~nik_codes/nik-games"
-    Text: "Suggest Changes"
+    URL: "https://github.com/nicolas-sabbatini/nicolas-sabbatini.github.io/issues"
+    Text: "Suggest changes and ideas. (Tag: Nik Games)"
     appendFilePath: false
 ---
 # NIK games

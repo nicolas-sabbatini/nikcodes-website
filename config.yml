@@ -61,6 +61,8 @@ params:
       url: "https://github.com/nicolas-sabbatini/"
     - name: itchio
       url: "https://nik-codes.itch.io/"
+    - name: rss
+      url: "index.xml"
 
   fuseOpts:
     isCaseSensitive: false
