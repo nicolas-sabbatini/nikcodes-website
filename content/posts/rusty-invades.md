@@ -9,7 +9,6 @@ draft: false
 hidemeta: false 
 comments: false
 description: "A 'Space Invader' clone made with rust and made for the terminal."
-disableHLJS: false
 disableShare: false
 disableHLJS: false
 hideSummary: false

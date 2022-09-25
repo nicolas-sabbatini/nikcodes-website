@@ -1,6 +1,6 @@
 ---
 title: "My impossible list"
-date: 2021-04-20
+date: 2022-09-25
 tags: ["impossible list", "personal", "goals"]
 author: "Nicolas Cesar Sabbatini Vrech"
 showToc: true
@@ -9,7 +9,6 @@ draft: false
 hidemeta: false
 comments: false
 description: "My impossible list, hopes and dreams"
-disableHLJS: false
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -41,8 +40,8 @@ This list didn't fully remove the overwhelming feeling when I  think about the f
 - ~~Start a youtube chanel~~ - Completed 2020/10/20 [link](https://www.youtube.com/channel/UCmymYI9hAm98xJRjp7NN15w)
     - Start a serie
     - Reach 100 subscribers
-- Make a game
-- Finish my TODOs list [link](https://todo.sr.ht/)
+- ~~Make a game~~ - Completed 2017/12/01 [link](https://nik-codes.itch.io/space-battle-101)
+    - Finish 5 games
 
 ### Fitness
 
@@ -63,12 +62,13 @@ This list didn't fully remove the overwhelming feeling when I  think about the f
 
 - Learn Parkour
 - Learn Slacklining
-- Learn Juggling
+- ~~Learn Juggling~~ - Completed 2021/11/**
 - Learn to play the ukulele
 - Learn to meditate
 - Learn to compose music
 - Learn to draw
 - Learn to skateboarding
+- Learn to speak in public
 
 ### Finance
 
@@ -80,16 +80,21 @@ This list didn't fully remove the overwhelming feeling when I  think about the f
 - Buy a house
 - Buy a small flat in other country
 - ~~Buy crypto~~ - Completed 2021/10/01
-- Open my NFT store
+- ~~Open my NFT store~~ - Not removed because it defeat the spirit off the list
 - Sell my digital art
+- ~~Donate monet to a good cause~~ - Completed
+  - Palestinian refugees
+  - Ukraine refugees
+  - Wikipedia
 
 ### Programing
 
 - ~~Learn HTML~~ - Completed 2018/07/xx
-- Learn CSS
-- Learn vanilla JS
+- ~~Learn CSS~~ - Completed
+- ~~Learn vanilla JS~~ - Completed
 - ~~Make my website~~ - Completed
 - ~~Have my own domain~~ - Completed 2018/10/11
+- Learn Rust
 - Earn 100 dollars with something I had published
 - Make a neural network that compose music
 - Make a rogue like
@@ -130,27 +135,30 @@ This list didn't fully remove the overwhelming feeling when I  think about the f
 
 ### Books
 
+- Algorithm desing
+- Brain rules
+- Death by Todd May
+- Floor Games
+- Generative Design, Revised and Updated Edition
+- Getting things done
+- How Pac-Man Eats
+- HOW TO INVENT EVERYTHING
+- How to make friends and influence others
+- http://www.generative-gestaltung.de/2/
+- https://gameprogrammingpatterns.com/
+- If you are smart why aren't you happy
+- Introduction to algorithms
+- La ética hacker
+- Learning to draw with the right side of your brain
+- Little Wars
+- Making Comics
 - Mind set
 - Mindfulness
-- You are not so smart
-- Brain rules
-- Algorithm desing
-- Introduction to algorithms
-- Skiena the algorithm design manual
-- Understanding comics
-- Reinventing Comics
-- Making Comics
-- Little Wars
-- Floor Games
-- So good they can't ignore you
-- Getting things done
-- HOW TO INVENT EVERYTHING
-- La ética hacker
-- How Pac-Man Eats
-- https://gameprogrammingpatterns.com/
-- What We Owe to Each Other
-- Death by Todd May
-- Generative Design, Revised and Updated Edition
 - Programming Design Systems
-- http://www.generative-gestaltung.de/2/
-- If you are smart why aren't you happy
+- Reinventing Comics
+- Skiena the algorithm design manual
+- So good they can't ignore you
+- The happiness advantage
+- Understanding comics
+- What We Owe to Each Other
+- You are not so smart

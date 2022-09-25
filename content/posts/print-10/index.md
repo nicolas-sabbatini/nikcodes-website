@@ -9,7 +9,6 @@ draft: false
 hidemeta: false 
 comments: false
 description: "10 PRINT CHR$(205.5+RND(1)); : GOTO 10"
-disableHLJS: false
 disableShare: false
 disableHLJS: false
 hideSummary: false

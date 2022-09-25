@@ -9,7 +9,6 @@ draft: false
 hidemeta: false 
 comments: false
 description: "TODO" <------------------------
-disableHLJS: false
 disableShare: false
 disableHLJS: false
 hideSummary: false
