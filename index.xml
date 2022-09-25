@@ -12,6 +12,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nikcodes.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>My impossible list</title>
+      <link>https://nikcodes.xyz/posts/impossible_list/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikcodes.xyz/posts/impossible_list/</guid>
+      <description>My impossible list, hopes and dreams</description>
+    </item>
+    
+    <item>
       <title>Tools for the magic</title>
       <link>https://nikcodes.xyz/projets/tools_for_magic/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
@@ -36,15 +45,6 @@
       
       <guid>https://nikcodes.xyz/posts/print-10/</guid>
       <description>10 PRINT CHR$(205.5&#43;RND(1)); : GOTO 10</description>
-    </item>
-    
-    <item>
-      <title>My impossible list</title>
-      <link>https://nikcodes.xyz/posts/impossible_list/</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nikcodes.xyz/posts/impossible_list/</guid>
-      <description>My impossible list, hopes and dreams</description>
     </item>
     
     <item>
