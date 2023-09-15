@@ -15,7 +15,7 @@ minify:
 
 params:
   description: "Nik personal website, here you can find all my projects and my blog"
-  keywords: [ Blog, Portfolio, PaperMod ]
+  keywords: [Blog, Portfolio, PaperMod]
   author: Nicolas cesar sabbatini Vrech
   DateFormat: "2 January 2006"
   images: ["logo.svg", "logo.svg"]
@@ -53,10 +53,8 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/nik_codes"
-    - name: youtube
-      url: "https://www.youtube.com/channel/UCmymYI9hAm98xJRjp7NN15w"
+    - name: instagram
+      url: "https://www.instagram.com/nikcodes.xyz"
     - name: github
       url: "https://github.com/nicolas-sabbatini/"
     - name: itchio
@@ -71,7 +69,7 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    keys: [ "title", "permalink", "summary", "content" ]
+    keys: ["title", "permalink", "summary", "content"]
 
   editPost:
     URL: "https://todo.sr.ht/~nik_codes/nikcodes_website"
@@ -96,9 +94,9 @@ menu:
       name: tags
       url: /tags/
       weight: 30
-    - identifier: archives
-      name: archives
-      url: /archives/
+    - identifier: my_art
+      name: my art
+      url: /sketches-and-plotters/
       weight: 40
     - identifier: search
       name: search
@@ -106,7 +104,7 @@ menu:
       weight: 50
 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
+  home:
+    - HTML
+    - RSS
+    - JSON
