@@ -94,10 +94,6 @@ menu:
       name: tags
       url: /tags/
       weight: 30
-    - identifier: my_art
-      name: "my art"
-      url: /sketches-and-plotters/
-      weight: 40
     - identifier: search
       name: search
       url: /search/
