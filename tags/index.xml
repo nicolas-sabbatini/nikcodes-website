@@ -1,29 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nik Codes</title>
     <link>https://nikcodes.xyz/tags/</link>
     <description>Recent content in Tags on Nik Codes</description>
-    <image>
-      <url>https://nikcodes.xyz/logo.svg</url>
-      <link>https://nikcodes.xyz/logo.svg</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nikcodes.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>dot files</title>
-      <link>https://nikcodes.xyz/tags/dot-files/</link>
-      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nikcodes.xyz/tags/dot-files/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nikcodes.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>goals</title>
       <link>https://nikcodes.xyz/tags/goals/</link>
-      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/tags/goals/</guid>
       <description></description>
@@ -32,7 +19,7 @@
     <item>
       <title>impossible list</title>
       <link>https://nikcodes.xyz/tags/impossible-list/</link>
-      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/tags/impossible-list/</guid>
       <description></description>
@@ -41,9 +28,18 @@
     <item>
       <title>personal</title>
       <link>https://nikcodes.xyz/tags/personal/</link>
-      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dot files</title>
+      <link>https://nikcodes.xyz/tags/dot-files/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikcodes.xyz/tags/dot-files/</guid>
       <description></description>
     </item>
     

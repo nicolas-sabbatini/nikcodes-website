@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>game on Nik Codes</title>
     <link>https://nikcodes.xyz/tags/game/</link>
     <description>Recent content in game on Nik Codes</description>
-    <image>
-      <url>https://nikcodes.xyz/logo.svg</url>
-      <link>https://nikcodes.xyz/logo.svg</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nikcodes.xyz/tags/game/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +13,13 @@
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/posts/rusty-invades/</guid>
-      <description>A &amp;#39;Space Invader&amp;#39; clone made with rust and made for the terminal.</description>
+      <description>Rusty Invades Source Code
+A &amp;lsquo;Space Invader&amp;rsquo; clone made with rust and made for the terminal.
+Inspired by invaders
+Dependencies on Linux Audio should work out-of-the-box on macOS, Windows, and iOS. For Linux, the downstream package for actually playing sound requires the Alsa development libraries to be installed.
+CentOS sudo yum install -y alsa-lib-devel Debian/Ubuntu sudo apt install libasound2-dev pkg-config License Apache License (Version 2.0).
+TODO ⬜ UI.
+✅ Score.</description>
     </item>
     
   </channel>
