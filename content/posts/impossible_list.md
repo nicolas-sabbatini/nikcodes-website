@@ -1,6 +1,6 @@
 ---
 title: "My impossible list"
-date: 2022-09-25
+date: 2023-03-07
 tags: ["impossible list", "personal", "goals"]
 author: "Nicolas Cesar Sabbatini Vrech"
 showToc: true
@@ -37,16 +37,15 @@ This list didn't fully remove the overwhelming feeling when I  think about the f
 - ~~Participate in a game jam~~ - Completed 2017/12/01 [Entry](https://itch.io/jam/game-off-2017/rate/199572)
 - Get my driver licence
 - Start a blog
-- ~~Start a youtube chanel~~ - Completed 2020/10/20 [link](https://www.youtube.com/channel/UCmymYI9hAm98xJRjp7NN15w)
+- Start a youtube chanel
     - Start a serie
     - Reach 100 subscribers
-- ~~Make a game~~ - Completed 2017/12/01 [link](https://nik-codes.itch.io/space-battle-101)
-    - Finish 5 games
+- Retire early (FIRE?)
 
 ### Fitness
 
 - ~~Run a 4km marathon~~ - Completed 2017/10/28 Time:30'
-- Run a 4km marathon in less than 16'
+    - Run a 4km marathon in less than 16'
 - Run a 10km marathon
 - Lift 50 kg in bench press
 - Do 100 push-ups in a single set
@@ -68,7 +67,6 @@ This list didn't fully remove the overwhelming feeling when I  think about the f
 - Learn Slacklining
 - ~~Learn Juggling~~ - Completed 2021/11/**
 - Learn to play the ukulele
-- Learn to meditate
 - Learn to compose music
 - Learn to draw
 - Learn to skateboarding
@@ -102,6 +100,8 @@ This list didn't fully remove the overwhelming feeling when I  think about the f
 - Earn 100 dollars with something I had published
 - Make a neural network that compose music
 - Make a rogue like
+- ~~Make a game~~ - Completed 2017/12/01 [link](https://nik-codes.itch.io/space-battle-101)
+    - Finish 5 games
 
 ### Travel
 
@@ -117,6 +117,7 @@ This list didn't fully remove the overwhelming feeling when I  think about the f
 - ~~Travel with friends~~ - Completed 2019/01/09
 - Visit all continents
 - Go to Brazilian Carnival in Rio de Janeiro
+- ~~Go to Jujuy Carnival~~ - Completed 2023/02
 - Make a road trip between countries
 
 ### Activities
@@ -136,34 +137,4 @@ This list didn't fully remove the overwhelming feeling when I  think about the f
 - Name something
 - Wingsuit fly
 - ~~Windsurf~~ - 2021/03/25
-- Read 1 book per month
-
-### Books
-
-- Algorithm desing
-- Brain rules
-- Death by Todd May
-- Floor Games
-- Generative Design, Revised and Updated Edition
-- Getting things done
-- How Pac-Man Eats
-- HOW TO INVENT EVERYTHING
-- How to make friends and influence others
-- http://www.generative-gestaltung.de/2/
-- https://gameprogrammingpatterns.com/
-- If you are smart why aren't you happy
-- Introduction to algorithms
-- La ética hacker
-- Learning to draw with the right side of your brain
-- Little Wars
-- Making Comics
-- Mind set
-- Mindfulness
-- Programming Design Systems
-- Reinventing Comics
-- Skiena the algorithm design manual
-- So good they can't ignore you
-- The happiness advantage
-- Understanding comics
-- What We Owe to Each Other
-- You are not so smart
+- Read 1 book
