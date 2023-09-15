@@ -14,8 +14,8 @@ minify:
   minifyOutput: true
 
 params:
-  description: "Nik personal website, here you can find all my projects and my blog"
-  keywords: [Blog, Portfolio, PaperMod]
+  description: "Nik personal website, here you can find all my projects, blog and art"
+  keywords: [Blog, Portfolio, PaperMod, Art]
   author: Nicolas cesar sabbatini Vrech
   DateFormat: "2 January 2006"
   images: ["logo.svg", "logo.svg"]
@@ -35,7 +35,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Hi there \U0001F44B!"
-    subtitle: "My name is Nik, I'm a fullstack developer from Argentina 🇦🇷"
+    subtitle: "My name is Nik, I’m a backend developer from Argentina and in my free time I do digital art"
     imageUrl: "logo.svg"
     imageWidth: 250
     imageHeight: 250
@@ -47,6 +47,8 @@ params:
         url: /posts/
       - name: Tags
         url: /tags/
+      - name: Art
+        url: /sketches-and-plotters/
 
   homeInfoParams:
     Title: "Hi there \U0001F44B"
