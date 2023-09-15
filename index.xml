@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Nik Codes</title>
     <link>https://nikcodes.xyz/</link>
     <description>Recent content on Nik Codes</description>
+    <image>
+      <title>Nik Codes</title>
+      <url>https://nikcodes.xyz/logo.svg</url>
+      <link>https://nikcodes.xyz/logo.svg</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nikcodes.xyz/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +18,7 @@
       <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/posts/impossible_list/</guid>
-      <description>Impossible list. I’ve always been fantasizing about my future, thinking about all the things I wanted to accomplish or do. Needless to say, I never got around to any of it (except maybe a few minor goals). I always felt overwhelmed by the number of things I want to do/learn, till I came across a video from Thomas Frank about an idea that he had from Joel Runyon, this idea is the impossible list.</description>
+      <description>My impossible list, hopes and dreams</description>
     </item>
     
     <item>
@@ -22,9 +27,7 @@
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/projets/tools_for_magic/</guid>
-      <description>Tools for the magic. This is a collection of different scripts and tools to make all the magic happen.
-Dot files: dot-files: All my Dot files.
-Libs: macroquad-canvas: Add canvas functionality to macroquad.</description>
+      <description>Tools for the magic</description>
     </item>
     
     <item>
@@ -33,10 +36,7 @@ Libs: macroquad-canvas: Add canvas functionality to macroquad.</description>
       <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/about_me/</guid>
-      <description>Hi there 👋! I am Nik. I am a full stack developer currently working at MODO as a backend developer, and studying computer science in Famaf.
-I am a native Spanish speaker and also fluent in English.
-I love learning new skills, and I am always down to improve my self. Some off the skills that I learn throughout the years are:
-Rust. Node js. Nest Js. Express js. Angular. Jenkins.</description>
+      <description>About me</description>
     </item>
     
     <item>
@@ -45,10 +45,7 @@ Rust. Node js. Nest Js. Express js. Angular. Jenkins.</description>
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/posts/print-10/</guid>
-      <description>10 Print 10 PRINT CHR$(205.5+RND(1)); : GOTO 10
-A implementation of the program 10 print in Rust and using the crate macroquad.
-The implementation tries to be the most faithful to the original source in respect of the aspect ratio and colors, if you resize the windows the proportion is going to get lost.
-Something that cannot be reproduced with the approach is being a one-liner and be readable at the same time.</description>
+      <description>10 PRINT CHR$(205.5&#43;RND(1)); : GOTO 10</description>
     </item>
     
     <item>
@@ -57,9 +54,7 @@ Something that cannot be reproduced with the approach is being a one-liner and b
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/projets/creative_coding_with_nik/</guid>
-      <description>Creative coding with Nik Come and get some inspiration with these creative projects, feel free to clone any repos, make lovely pull requests or send any idea to the tickets!
-Help All of the projects have tags under the title, so you can use the search functionality (ctrl + f) to find the tags that you find interesting.
-Tickets Ticket format: [Name of the repo if applies] Resume of the ticket.</description>
+      <description>Come and get some inspiration with these creative projects, feel free to clone any repos, make lovely pull requests or send any idea to the tickets!</description>
     </item>
     
     <item>
@@ -68,10 +63,7 @@ Tickets Ticket format: [Name of the repo if applies] Resume of the ticket.</desc
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/projets/experiments_projects_and_chocolate/</guid>
-      <description>Experiments, projects and chocolate A collection of coding experiments and projects to have fun and tinker with (chocolate not included).
-⚠ Warning ⚠ The repos don&amp;rsquo;t have any relation between them, but I am sure you can find something that you like here.
-Help Every project has tags under the title, so you can use the search functionality (ctrl + f) to find tags that you find interesting.
-Tickets Ticket format: [Repo name] Resume of the ticket.</description>
+      <description>A collection of coding experiments and projects to have fun and tinker with (chocolate not included).</description>
     </item>
     
     <item>
@@ -80,8 +72,7 @@ Tickets Ticket format: [Repo name] Resume of the ticket.</description>
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/projets/nik_games/</guid>
-      <description>NIK games Hi I&amp;rsquo;m Nik and in this project you can find the source code of my games. You can check out the releases in itch.io.
-Games </description>
+      <description>My games</description>
     </item>
     
     <item>
@@ -90,23 +81,9 @@ Games </description>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/posts/rusty-invades/</guid>
-      <description>Rusty Invades Source Code
-A &amp;lsquo;Space Invader&amp;rsquo; clone made with rust and made for the terminal.
-Inspired by invaders
-Dependencies on Linux Audio should work out-of-the-box on macOS, Windows, and iOS. For Linux, the downstream package for actually playing sound requires the Alsa development libraries to be installed.
-CentOS sudo yum install -y alsa-lib-devel Debian/Ubuntu sudo apt install libasound2-dev pkg-config License Apache License (Version 2.0).
-TODO ⬜ UI.
-✅ Score.</description>
+      <description>A &amp;#39;Space Invader&amp;#39; clone made with rust and made for the terminal.</description>
     </item>
     
-    <item>
-      <title>Search</title>
-      <link>https://nikcodes.xyz/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nikcodes.xyz/search/</guid>
-      <description>search</description>
-    </item>
     
   </channel>
 </rss>
