@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>commodore64 on Nik Codes</title>
     <link>https://nikcodes.xyz/tags/commodore64/</link>
     <description>Recent content in commodore64 on Nik Codes</description>
-    <image>
-      <title>Nik Codes</title>
-      <url>https://nikcodes.xyz/logo.svg</url>
-      <link>https://nikcodes.xyz/logo.svg</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nikcodes.xyz/tags/commodore64/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +13,10 @@
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/posts/print-10/</guid>
-      <description>10 PRINT CHR$(205.5&#43;RND(1)); : GOTO 10</description>
+      <description>10 Print 10 PRINT CHR$(205.5+RND(1)); : GOTO 10
+A implementation of the program 10 print in Rust and using the crate macroquad.
+The implementation tries to be the most faithful to the original source in respect of the aspect ratio and colors, if you resize the windows the proportion is going to get lost.
+Something that cannot be reproduced with the approach is being a one-liner and be readable at the same time.</description>
     </item>
     
   </channel>

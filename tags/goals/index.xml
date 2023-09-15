@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>goals on Nik Codes</title>
     <link>https://nikcodes.xyz/tags/goals/</link>
     <description>Recent content in goals on Nik Codes</description>
-    <image>
-      <title>Nik Codes</title>
-      <url>https://nikcodes.xyz/logo.svg</url>
-      <link>https://nikcodes.xyz/logo.svg</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nikcodes.xyz/tags/goals/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +13,7 @@
       <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/posts/impossible_list/</guid>
-      <description>My impossible list, hopes and dreams</description>
+      <description>Impossible list. I’ve always been fantasizing about my future, thinking about all the things I wanted to accomplish or do. Needless to say, I never got around to any of it (except maybe a few minor goals). I always felt overwhelmed by the number of things I want to do/learn, till I came across a video from Thomas Frank about an idea that he had from Joel Runyon, this idea is the impossible list.</description>
     </item>
     
   </channel>

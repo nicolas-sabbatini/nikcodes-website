@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>projet on Nik Codes</title>
     <link>https://nikcodes.xyz/tags/projet/</link>
     <description>Recent content in projet on Nik Codes</description>
-    <image>
-      <title>Nik Codes</title>
-      <url>https://nikcodes.xyz/logo.svg</url>
-      <link>https://nikcodes.xyz/logo.svg</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nikcodes.xyz/tags/projet/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +13,9 @@
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/projets/tools_for_magic/</guid>
-      <description>Tools for the magic</description>
+      <description>Tools for the magic. This is a collection of different scripts and tools to make all the magic happen.
+Dot files: dot-files: All my Dot files.
+Libs: macroquad-canvas: Add canvas functionality to macroquad.</description>
     </item>
     
     <item>
@@ -27,7 +24,9 @@
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/projets/creative_coding_with_nik/</guid>
-      <description>Come and get some inspiration with these creative projects, feel free to clone any repos, make lovely pull requests or send any idea to the tickets!</description>
+      <description>Creative coding with Nik Come and get some inspiration with these creative projects, feel free to clone any repos, make lovely pull requests or send any idea to the tickets!
+Help All of the projects have tags under the title, so you can use the search functionality (ctrl + f) to find the tags that you find interesting.
+Tickets Ticket format: [Name of the repo if applies] Resume of the ticket.</description>
     </item>
     
     <item>
@@ -36,7 +35,10 @@
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/projets/experiments_projects_and_chocolate/</guid>
-      <description>A collection of coding experiments and projects to have fun and tinker with (chocolate not included).</description>
+      <description>Experiments, projects and chocolate A collection of coding experiments and projects to have fun and tinker with (chocolate not included).
+⚠ Warning ⚠ The repos don&amp;rsquo;t have any relation between them, but I am sure you can find something that you like here.
+Help Every project has tags under the title, so you can use the search functionality (ctrl + f) to find tags that you find interesting.
+Tickets Ticket format: [Repo name] Resume of the ticket.</description>
     </item>
     
     <item>
@@ -45,7 +47,8 @@
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/projets/nik_games/</guid>
-      <description>My games</description>
+      <description>NIK games Hi I&amp;rsquo;m Nik and in this project you can find the source code of my games. You can check out the releases in itch.io.
+Games </description>
     </item>
     
   </channel>

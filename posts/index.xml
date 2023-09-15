@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Nik Codes</title>
     <link>https://nikcodes.xyz/posts/</link>
     <description>Recent content in Posts on Nik Codes</description>
-    <image>
-      <title>Nik Codes</title>
-      <url>https://nikcodes.xyz/logo.svg</url>
-      <link>https://nikcodes.xyz/logo.svg</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nikcodes.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +13,7 @@
       <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/posts/impossible_list/</guid>
-      <description>My impossible list, hopes and dreams</description>
+      <description>Impossible list. I’ve always been fantasizing about my future, thinking about all the things I wanted to accomplish or do. Needless to say, I never got around to any of it (except maybe a few minor goals). I always felt overwhelmed by the number of things I want to do/learn, till I came across a video from Thomas Frank about an idea that he had from Joel Runyon, this idea is the impossible list.</description>
     </item>
     
     <item>
@@ -27,7 +22,10 @@
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/posts/print-10/</guid>
-      <description>10 PRINT CHR$(205.5&#43;RND(1)); : GOTO 10</description>
+      <description>10 Print 10 PRINT CHR$(205.5+RND(1)); : GOTO 10
+A implementation of the program 10 print in Rust and using the crate macroquad.
+The implementation tries to be the most faithful to the original source in respect of the aspect ratio and colors, if you resize the windows the proportion is going to get lost.
+Something that cannot be reproduced with the approach is being a one-liner and be readable at the same time.</description>
     </item>
     
     <item>
@@ -36,7 +34,13 @@
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nikcodes.xyz/posts/rusty-invades/</guid>
-      <description>A &amp;#39;Space Invader&amp;#39; clone made with rust and made for the terminal.</description>
+      <description>Rusty Invades Source Code
+A &amp;lsquo;Space Invader&amp;rsquo; clone made with rust and made for the terminal.
+Inspired by invaders
+Dependencies on Linux Audio should work out-of-the-box on macOS, Windows, and iOS. For Linux, the downstream package for actually playing sound requires the Alsa development libraries to be installed.
+CentOS sudo yum install -y alsa-lib-devel Debian/Ubuntu sudo apt install libasound2-dev pkg-config License Apache License (Version 2.0).
+TODO ⬜ UI.
+✅ Score.</description>
     </item>
     
   </channel>
