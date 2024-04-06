@@ -33,7 +33,7 @@ params:
     safari_pinned_tab: "logo.svg"
 
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: true
     title: "Hi there \U0001F44B!"
     subtitle: "My name is Nik, I’m a backend developer from Argentina and in my free time I do digital art"
     imageUrl: "logo.svg"
@@ -60,7 +60,7 @@ params:
     - name: github
       url: "https://github.com/nicolas-sabbatini/"
     - name: itchio
-      url: "https://nik-codes.itch.io/"
+      url: "https://coffeebreak-inc.itch.io/"
     - name: rss
       url: "index.xml"
 
@@ -100,7 +100,4 @@ menu:
       name: "my art"
       url: /sketches-and-plotters/
       weight: 40
-    - identifier: search
-      name: search
-      url: /search/
-      weight: 50
+

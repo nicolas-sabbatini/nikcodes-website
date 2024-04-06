@@ -14,12 +14,6 @@ disableShare: false
 hideSummary: false
 searchHidden: false
 ShowPostNavLinks: true
-cover:
-    image: "assets/img/games_baner.svg"
-    alt: "Game baner"
-    caption: "Baner"
-    relative: false
-    hidden: false
 editPost:
     URL: "https://github.com/nicolas-sabbatini/nicolas-sabbatini.github.io/issues"
     Text: "Suggest changes and ideas. (Tag: Nik Games)"
