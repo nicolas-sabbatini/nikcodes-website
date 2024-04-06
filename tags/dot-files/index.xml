@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>dot files on Nik Codes</title>
-    <link>https://nikcodes.xyz/tags/dot-files/</link>
+    <link>https://www.nikcodes.xyz/tags/dot-files/</link>
     <description>Recent content in dot files on Nik Codes</description>
     <image>
       <title>Nik Codes</title>
-      <url>https://nikcodes.xyz/logo.svg</url>
-      <link>https://nikcodes.xyz/logo.svg</link>
+      <url>https://www.nikcodes.xyz/logo.svg</url>
+      <link>https://www.nikcodes.xyz/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nikcodes.xyz/tags/dot-files/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.nikcodes.xyz/tags/dot-files/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tools for the magic</title>
-      <link>https://nikcodes.xyz/projets/tools_for_magic/</link>
+      <link>https://www.nikcodes.xyz/projets/tools_for_magic/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nikcodes.xyz/projets/tools_for_magic/</guid>
+      <guid>https://www.nikcodes.xyz/projets/tools_for_magic/</guid>
       <description>Tools for the magic</description>
     </item>
     

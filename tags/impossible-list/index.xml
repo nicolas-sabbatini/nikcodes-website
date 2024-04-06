@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>impossible list on Nik Codes</title>
-    <link>https://nikcodes.xyz/tags/impossible-list/</link>
+    <link>https://www.nikcodes.xyz/tags/impossible-list/</link>
     <description>Recent content in impossible list on Nik Codes</description>
     <image>
       <title>Nik Codes</title>
-      <url>https://nikcodes.xyz/logo.svg</url>
-      <link>https://nikcodes.xyz/logo.svg</link>
+      <url>https://www.nikcodes.xyz/logo.svg</url>
+      <link>https://www.nikcodes.xyz/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nikcodes.xyz/tags/impossible-list/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.nikcodes.xyz/tags/impossible-list/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My impossible list</title>
-      <link>https://nikcodes.xyz/posts/impossible_list/</link>
+      <link>https://www.nikcodes.xyz/posts/impossible_list/</link>
       <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://nikcodes.xyz/posts/impossible_list/</guid>
+      <guid>https://www.nikcodes.xyz/posts/impossible_list/</guid>
       <description>My impossible list, hopes and dreams</description>
     </item>
     

@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projets on Nik Codes</title>
-    <link>https://nikcodes.xyz/projets/</link>
+    <link>https://www.nikcodes.xyz/projets/</link>
     <description>Recent content in Projets on Nik Codes</description>
     <image>
       <title>Nik Codes</title>
-      <url>https://nikcodes.xyz/logo.svg</url>
-      <link>https://nikcodes.xyz/logo.svg</link>
+      <url>https://www.nikcodes.xyz/logo.svg</url>
+      <link>https://www.nikcodes.xyz/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nikcodes.xyz/projets/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.nikcodes.xyz/projets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tools for the magic</title>
-      <link>https://nikcodes.xyz/projets/tools_for_magic/</link>
+      <link>https://www.nikcodes.xyz/projets/tools_for_magic/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nikcodes.xyz/projets/tools_for_magic/</guid>
+      <guid>https://www.nikcodes.xyz/projets/tools_for_magic/</guid>
       <description>Tools for the magic</description>
     </item>
     
     <item>
       <title>Creative coding with Nik</title>
-      <link>https://nikcodes.xyz/projets/creative_coding_with_nik/</link>
+      <link>https://www.nikcodes.xyz/projets/creative_coding_with_nik/</link>
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://nikcodes.xyz/projets/creative_coding_with_nik/</guid>
+      <guid>https://www.nikcodes.xyz/projets/creative_coding_with_nik/</guid>
       <description>Come and get some inspiration with these creative projects, feel free to clone any repos, make lovely pull requests or send any idea to the tickets!</description>
     </item>
     
     <item>
       <title>Experiments, projects and chocolate</title>
-      <link>https://nikcodes.xyz/projets/experiments_projects_and_chocolate/</link>
+      <link>https://www.nikcodes.xyz/projets/experiments_projects_and_chocolate/</link>
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://nikcodes.xyz/projets/experiments_projects_and_chocolate/</guid>
+      <guid>https://www.nikcodes.xyz/projets/experiments_projects_and_chocolate/</guid>
       <description>A collection of coding experiments and projects to have fun and tinker with (chocolate not included).</description>
     </item>
     
     <item>
       <title>Nik Games</title>
-      <link>https://nikcodes.xyz/projets/nik_games/</link>
+      <link>https://www.nikcodes.xyz/projets/nik_games/</link>
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://nikcodes.xyz/projets/nik_games/</guid>
+      <guid>https://www.nikcodes.xyz/projets/nik_games/</guid>
       <description>My games</description>
     </item>
     

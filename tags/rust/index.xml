@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>rust on Nik Codes</title>
-    <link>https://nikcodes.xyz/tags/rust/</link>
+    <link>https://www.nikcodes.xyz/tags/rust/</link>
     <description>Recent content in rust on Nik Codes</description>
     <image>
       <title>Nik Codes</title>
-      <url>https://nikcodes.xyz/logo.svg</url>
-      <link>https://nikcodes.xyz/logo.svg</link>
+      <url>https://www.nikcodes.xyz/logo.svg</url>
+      <link>https://www.nikcodes.xyz/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nikcodes.xyz/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.nikcodes.xyz/tags/rust/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>10 Print</title>
-      <link>https://nikcodes.xyz/posts/print-10/</link>
+      <link>https://www.nikcodes.xyz/posts/print-10/</link>
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://nikcodes.xyz/posts/print-10/</guid>
+      <guid>https://www.nikcodes.xyz/posts/print-10/</guid>
       <description>10 PRINT CHR$(205.5&#43;RND(1)); : GOTO 10</description>
     </item>
     
     <item>
       <title>Rusty Invades</title>
-      <link>https://nikcodes.xyz/posts/rusty-invades/</link>
+      <link>https://www.nikcodes.xyz/posts/rusty-invades/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://nikcodes.xyz/posts/rusty-invades/</guid>
+      <guid>https://www.nikcodes.xyz/posts/rusty-invades/</guid>
       <description>A &amp;#39;Space Invader&amp;#39; clone made with rust and made for the terminal.</description>
     </item>
     
